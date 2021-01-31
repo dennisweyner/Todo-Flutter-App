@@ -1,16 +1,26 @@
-# todo_app
+# todo_app #
+Um Projeto Desenvolvido em Flutter/Dart.
 
-A new Flutter project.
+## Proposta do Aplicativo ##
+Desenvolver uma Lista de a Fazeres, Criando Novos Items, Removendo e Salvando o Estado da Aplicação! 
 
-## Getting Started
+## Vamos Começar
+Este projeto é o ponto de partida para um aplicativo Flutter.
 
-This project is a starting point for a Flutter application.
+## Tela Inicial do App ##
+<img src="readmelogo/main.jpeg"/>
 
-A few resources to get you started if this is your first Flutter project:
+# Podemos Adicionar Novas Tarefas ##
+<img src="readmelogo/new.jpeg"/>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+# Marcar as Tarefas Concluídas ###
+<img src="readmelogo/check.jpeg"/>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Eliminar as Tarefas Feitas ####
+<img src="readmelogo/delete.jpeg"/>
+
+## Documentação
+consulte nossa documentação online (https://flutter.dev/docs), que oferece tutoriais,
+amostras, orientação sobre desenvolvimento móvel e uma referência completa de API.
+
+Desenvolvido por Dennis Weyner.
